@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\Code Academy\\EntityFrameworkCore\\Homeworks\\26.01.2025\\PB503 Entity Framework homework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22D8E98F-C09D-42CE-958E-EB2B2B93BA8A}|PB503 Entity Framework homework\\PB503 Entity Framework homework.csproj|c:\\users\\asus\\desktop\\code academy\\entityframeworkcore\\homeworks\\26.01.2025\\pb503 entity framework homework\\pb503 entity framework homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D8E98F-C09D-42CE-958E-EB2B2B93BA8A}|PB503 Entity Framework homework\\PB503 Entity Framework homework.csproj|solutionrelative:pb503 entity framework homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D8E98F-C09D-42CE-958E-EB2B2B93BA8A}|PB503 Entity Framework homework\\PB503 Entity Framework homework.csproj|c:\\users\\asus\\desktop\\code academy\\entityframeworkcore\\homeworks\\26.01.2025\\pb503 entity framework homework\\pb503 entity framework homework\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D8E98F-C09D-42CE-958E-EB2B2B93BA8A}|PB503 Entity Framework homework\\PB503 Entity Framework homework.csproj|solutionrelative:pb503 entity framework homework\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D8E98F-C09D-42CE-958E-EB2B2B93BA8A}|PB503 Entity Framework homework\\PB503 Entity Framework homework.csproj|c:\\users\\asus\\desktop\\code academy\\entityframeworkcore\\homeworks\\26.01.2025\\pb503 entity framework homework\\pb503 entity framework homework\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D8E98F-C09D-42CE-958E-EB2B2B93BA8A}|PB503 Entity Framework homework\\PB503 Entity Framework homework.csproj|solutionrelative:pb503 entity framework homework\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D8E98F-C09D-42CE-958E-EB2B2B93BA8A}|PB503 Entity Framework homework\\PB503 Entity Framework homework.csproj|c:\\users\\asus\\desktop\\code academy\\entityframeworkcore\\homeworks\\26.01.2025\\pb503 entity framework homework\\pb503 entity framework homework\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D8E98F-C09D-42CE-958E-EB2B2B93BA8A}|PB503 Entity Framework homework\\PB503 Entity Framework homework.csproj|solutionrelative:pb503 entity framework homework\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Code Academy\\EntityFrameworkCore\\Homeworks\\26.01.2025\\PB503 Entity Framework homework\\PB503 Entity Framework homework\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "PB503 Entity Framework homework\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Code Academy\\EntityFrameworkCore\\Homeworks\\26.01.2025\\PB503 Entity Framework homework\\PB503 Entity Framework homework\\Models\\Book.cs",
+              "RelativeToolTip": "PB503 Entity Framework homework\\Models\\Book.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvxMAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T06:39:35.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Code Academy\\EntityFrameworkCore\\Homeworks\\26.01.2025\\PB503 Entity Framework homework\\PB503 Entity Framework homework\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "PB503 Entity Framework homework\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Code Academy\\EntityFrameworkCore\\Homeworks\\26.01.2025\\PB503 Entity Framework homework\\PB503 Entity Framework homework\\Models\\Genre.cs",
+              "RelativeToolTip": "PB503 Entity Framework homework\\Models\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T06:38:37.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Code Academy\\EntityFrameworkCore\\Homeworks\\26.01.2025\\PB503 Entity Framework homework\\PB503 Entity Framework homework\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PB503 Entity Framework homework\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Code Academy\\EntityFrameworkCore\\Homeworks\\26.01.2025\\PB503 Entity Framework homework\\PB503 Entity Framework homework\\AppDbContext.cs",
+              "RelativeToolTip": "PB503 Entity Framework homework\\AppDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAACeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T06:29:27.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Code Academy\\EntityFrameworkCore\\Homeworks\\26.01.2025\\PB503 Entity Framework homework\\PB503 Entity Framework homework\\Program.cs",
+              "RelativeDocumentMoniker": "PB503 Entity Framework homework\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Code Academy\\EntityFrameworkCore\\Homeworks\\26.01.2025\\PB503 Entity Framework homework\\PB503 Entity Framework homework\\Program.cs",
+              "RelativeToolTip": "PB503 Entity Framework homework\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T06:26:56.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
